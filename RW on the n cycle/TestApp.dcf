@@ -1,0 +1,12 @@
+name: TestApp
+title: TestApp
+username:
+account: forscj
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3215306
+bundleId: 3850263
+url: https://forscj.shinyapps.io/TestApp/
+when: 1605155283.57516
+asMultiple: FALSE
+asStatic: FALSE
